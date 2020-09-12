@@ -29,7 +29,7 @@ Installation
 
     STATIC_URL = "https://s3.amazonaws.com/some-domain/"
 
-- Once you are ready to upload all static files that have been collecte in your
+- Once you are ready to upload all static files that have been collected in your
   site's ``STATIC_ROOT``, use the ``uploadstatic`` management
   command::
 
